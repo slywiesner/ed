@@ -4,10 +4,7 @@ title: elephants
 author: s wiesner
 source: me
 ---
-
-Module 3 LMA Certification Program 					Spring 2014
-
-Animal Assignment aka Zoo Assignment: the African Elephant
+LMA and the African Elephant
 
 Robin Neveu Brown and Susan L. Wiesner
 
