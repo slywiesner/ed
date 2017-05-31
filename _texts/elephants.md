@@ -4,7 +4,7 @@ title: elephants
 author: s wiesner
 source: me
 ---
-LMA and the African Elephant
+ LMA and the African Elephant
 
 Robin Neveu Brown and Susan L. Wiesner
 
